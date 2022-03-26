@@ -15,7 +15,7 @@ The project is implemented using python 3.6 and the [starlette](https://www.star
 
 
 ### 1) Return historical price data
-Implement the `price_data` function in `__main__.py` to return **open**, **close**, **high** and **low** prices for the requested symbol as json records. 
+Implement the `price_data` function in `__main__.py` to return **open**, **close**, **high** and **low** prices for the requested symbol as json records.
 
 For example:
 
